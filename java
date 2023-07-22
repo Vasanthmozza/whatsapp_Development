@@ -16,3 +16,5 @@ driver.manage().deleteCookieNamed("__abcd");
 The command launches a new browser and opens the specified URL in the browser instance
 The command takes a single string type parameter that is usually a URL of application under test.
 Example: driver.get("https://google.com");
+
+done
